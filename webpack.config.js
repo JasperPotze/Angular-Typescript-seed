@@ -16,5 +16,6 @@ module.exports = {
     },
     resolve: {
         extensions: ['', '".webpack.js', '.web.js', '.ts', '.js']
-    }
+    },
+    watch: true
 }
